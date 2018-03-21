@@ -1,0 +1,2 @@
+# Farmabook
+Site voltado para organização e estudo dirigido em tópicos de Farmacologia, através de questionários e ficheiros digitais, desenvolvido inicialmente para alunos da graduação em Medicina na Universidade Federal do Cerá - Campus Sobral; conta ainda com colaboração de graduandos de Engenharia da Computação e Medicina da mesma instituição para seu desenvolvimento e técnicas de adoção por parte da comunidade acadêmica.
